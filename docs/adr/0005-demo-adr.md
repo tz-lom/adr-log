@@ -7,6 +7,10 @@
 ## Context and Problem Statement
 
 I want to try adr manager
+@plantuml
+a->b
+a-->c
+@plantuml
 
 ## Decision Drivers
 
@@ -32,6 +36,13 @@ Chosen option: "try it", because comes out best.
 ### Negative Consequences
 
 * angry managers
+
+## Pros and Cons of the Options
+
+### try it
+
+* Good, because why not
+* Good, because not why
 
 ## Links
 
